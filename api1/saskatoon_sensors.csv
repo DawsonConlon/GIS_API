@@ -1,0 +1,2 @@
+id,name,locality,country.name,coordinates.latitude,coordinates.longitude,sensors
+958,Saskatoon,SASKATCHEWAN,Canada,52.136055,-106.662796,"[{'id': 5077666, 'name': 'no2 ppm', 'parameter': {'id': 7, 'name': 'no2', 'units': 'ppm', 'displayName': 'NO₂'}}, {'id': 1744, 'name': 'o3 ppm', 'parameter': {'id': 10, 'name': 'o3', 'units': 'ppm', 'displayName': 'O₃'}}, {'id': 25720, 'name': 'pm25 µg/m³', 'parameter': {'id': 2, 'name': 'pm25', 'units': 'µg/m³', 'displayName': 'PM2.5'}}]"
